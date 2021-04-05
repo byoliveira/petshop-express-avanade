@@ -1,0 +1,15 @@
+{
+  "pets": [
+    {
+      "nome": "Romarinho",
+      "tipo": "cachorro",
+      "idade": 5,
+      "raca": "American",
+      "peso": 3,
+      "tutor": "Qualquer",
+      "contato": "(11) 98899-4545",
+      "vacinado": false,
+      "servicos": []
+    }
+  ]
+}
